@@ -72,7 +72,7 @@ cuda-portfolio-website/
 
 ## 🌐 Live Demo
 
-https://niran2110.github.io/cuda-website/?
+https://niran2110.github.io/cuda-website/
 
 ## 👨‍💻 Author
 
